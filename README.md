@@ -1,2 +1,2 @@
 # reading-time
-The extension estimate time reading a article
+The extension estimate time reading articles
